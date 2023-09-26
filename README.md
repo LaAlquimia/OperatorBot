@@ -7,7 +7,7 @@ This is the Operator Bot For scalping
 Use down you Own risk
 
 
-##Installation
+## Installation
 Requeriments Python and Pybit 
 
 
