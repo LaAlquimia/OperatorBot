@@ -73,12 +73,6 @@ def handle_info(message):
     
               ''' )
 
-    
-    
-
-
-
-
 def handle_positions(message):
     return(0)
 
