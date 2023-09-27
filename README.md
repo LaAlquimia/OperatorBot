@@ -13,4 +13,7 @@ Requeriments Python and Pybit
 
 ```
 git clone https://github.com/LaAlquimia/OperatorBot.git
+pip install -r requeriments.txt
+
+
 ```
